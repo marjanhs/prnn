@@ -1,1 +1,1 @@
-# prnn
+# Parallel Recurrent Neural Network
