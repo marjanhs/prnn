@@ -11,7 +11,7 @@ We propose two models for a special case of authorship verification problem. The
 ### To run  Cross Validation:
 `python main.py`
  
-### datasets:
+### Datasets:
 * [PAN Authorship Verification datasets](http://pan.webis.de/data.html) PAN13,PAN14, PAN15
 * Amazon reviews
 * A subset of [MLPA-400](https://github.com/dainis-boumber/AA_CNN/wiki/MLPA-400-Dataset)
